@@ -1,5 +1,5 @@
 {
-    "name": "wisembly/elephant.io",
+    "name": "tonci14/elephant.io",
     "type": "library",
     "description": "Send events to a websocket real time engine though PHP",
     "keywords": ["Nodejs", "WebSocket", "Dialog", "Real Time"],
@@ -28,6 +28,10 @@
 
         {
             "name": "Elephant.IO Community",
+            "role": "Contributors :)"
+        },
+        {
+            "name": "Anton Adamec",
             "role": "Contributors :)"
         }
     ],
